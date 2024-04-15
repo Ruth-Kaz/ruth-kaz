@@ -1,11 +1,11 @@
 # Nice to meet you!
 
 ## 🍊 About Me 
-Hey there! I'm Ruth. Autistic artist and designer. 
+Hey there! I'm Ruth. Autistic artist and designer. <br>
 And here's a little about me:
-🌱 **Age:** 26
-🌱 **Background:** Trained graphic designer with a major in digital design.
-🌱 **Current Focus:** Learning front-end development to expand my skill set.
+🌱 **Age:** 26 <br>
+🌱 **Background:** Trained graphic designer with a major in digital design.<br>
+🌱 **Current Focus:** Learning front-end development to expand my skill set.<br>
 🌱 **Side Hustle:** Owner of an art shop.
 
 ## 💻 Projects
