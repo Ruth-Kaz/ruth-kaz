@@ -2,7 +2,7 @@
 
 ## 🍊 About Me 
 Hey there! I'm Ruth. Autistic artist and designer. <br>
-And here's a little about me:
+And here's a little about me:<br><br>
 🌱 **Age:** 26 <br>
 🌱 **Background:** Trained graphic designer with a major in digital design.<br>
 🌱 **Current Focus:** Learning front-end development to expand my skill set.<br>
