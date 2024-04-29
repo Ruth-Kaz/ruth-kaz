@@ -1,6 +1,6 @@
 # Nice to meet you!
 
-## 🍊 About Me 
+##  About Me 🍊
 Hey there! I'm Ruth. Autistic artist and designer. <br>
 And here's a little about me:<br><br>
 🌱 **Age:** 26 <br>
@@ -8,8 +8,8 @@ And here's a little about me:<br><br>
 🌱 **Current Focus:** Learning front-end development to expand my skill set.<br>
 🌱 **Side Hustle:** Owner of an art shop.
 
-## 💻 Projects
+## Projects 💻
 Stay tuned for updates on my coding projects! I'm constantly exploring new ideas and pushing the boundaries of creativity and technology.
 
-## 💌 Get in Touch
+## Get in Touch  💌 
 I'm always open to collaboration and conversation. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/ruthykaz), and let's connect!
