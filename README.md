@@ -12,4 +12,4 @@ And here's a little about me:<br><br>
 Stay tuned for updates on my coding projects! I'm constantly exploring new ideas and pushing the boundaries of creativity and technology.
 
 ## Get in Touch  💌 
-I'm always open to collaboration and conversation. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/ruthykaz), and let's connect!
+I'm always open to collaboration and conversation. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/ruthykaz)!
